@@ -1,0 +1,22 @@
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\DaemonSPC.exe.config
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\DaemonSPC.exe
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\DaemonSPC.pdb
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\obj\Debug\DaemonSPC.csproj.CoreCompileInputs.cache
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\obj\Debug\DaemonSPC.exe
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\obj\Debug\DaemonSPC.pdb
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\NLog.config
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\NLog.dll
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\NLog.xml
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\obj\Debug\DaemonSPC.csproj.CopyComplete
+C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\obj\Debug\DaemonSPC.csproj.AssemblyReference.cache
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\NLog.config
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\DaemonSPC.exe.config
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\DaemonSPC.exe
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\DaemonSPC.pdb
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\NLog.dll
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\bin\Debug\NLog.xml
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\obj\Debug\DaemonSPC.csprojAssemblyReference.cache
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\obj\Debug\DaemonSPC.csproj.CoreCompileInputs.cache
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\obj\Debug\DaemonSPC.csproj.CopyComplete
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\obj\Debug\DaemonSPC.exe
+C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\deamonspc-master\deamonspc-master\DaemonSPC\obj\Debug\DaemonSPC.pdb

@@ -1,0 +1,46 @@
+2023-07-31 13:51:46.7890|23212|INFO|Initialisation... 
+2023-07-31 13:51:46.8160|23212|INFO|Folder to watch : C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\test
+2023-07-31 13:51:46.8160|23212|INFO|Creation of event : OK
+2023-07-31 13:51:55.9776|23212|INFO|----   Event triggered   ----
+2023-07-31 13:51:56.0471|23212|INFO|Process end : OK 
+2023-07-31 13:52:09.7169|32512|INFO|Initialisation... 
+2023-07-31 13:52:17.4775|32512|INFO|Folder to watch : C:\Users\Z0057393\LAB\DeamonSPC\DaemonSPC\bin\Debug\test
+2023-07-31 13:52:18.2777|32512|INFO|Creation of event : OK
+2023-07-31 13:52:33.6987|32512|INFO|----   Event triggered   ----
+2023-07-31 15:01:41.2712|22752|INFO|Initialisation... 
+2023-07-31 15:01:41.5242|22752|INFO|Folder to watch : C:\ZF\MesureSPC\TEMP
+2023-07-31 15:01:41.5242|22752|INFO|Creation of event : OK
+2023-07-31 15:02:41.0059|19388|INFO|Initialisation... 
+2023-07-31 15:02:41.1019|19388|INFO|Folder to watch : C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\Mesureaoi
+2023-07-31 15:02:41.1019|19388|INFO|Creation of event : OK
+2023-07-31 15:03:51.9465|22372|INFO|Initialisation... 
+2023-07-31 15:03:52.0395|22372|INFO|Folder to watch : C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\Mesureaoi
+2023-07-31 15:03:52.0395|22372|INFO|Creation of event : OK
+2023-07-31 15:04:01.4181|22372|INFO|----   Event triggered   ----
+2023-07-31 15:05:49.1990|16128|INFO|Initialisation... 
+2023-07-31 15:05:49.2790|16128|INFO|Folder to watch : C:\Users\Z0234873\OneDrive - ZF Friedrichshafen AG\Desktop\Mesureaoi
+2023-07-31 15:05:49.2790|16128|INFO|Creation of event : OK
+2023-07-31 15:05:56.9363|16128|INFO|----   Event triggered   ----
+2023-07-31 15:05:58.4675|16128|INFO|Process end : OK 
+2023-07-31 15:08:16.2986|12084|INFO|Initialisation... 
+2023-07-31 15:08:16.3606|12084|INFO|Folder to watch : C:\ZF\MesureSPC\TEMP
+2023-07-31 15:08:16.3606|12084|INFO|Creation of event : OK
+2023-07-31 15:40:55.0721|2180|INFO|Initialisation... 
+2023-07-31 15:40:55.0877|2180|INFO|Folder to watch : C:\ZF\MesureSPC\TEMP
+2023-07-31 15:40:55.0877|2180|INFO|Creation of event : OK
+2023-07-31 15:42:01.6046|2180|INFO|----   Event triggered   ----
+2023-07-31 15:42:01.6671|2180|INFO|Process end : OK 
+2023-07-31 15:43:00.4436|2180|INFO|----   Event triggered   ----
+2023-07-31 15:43:00.4500|2180|INFO|Process end : OK 
+2023-07-31 15:45:55.3689|2180|INFO|----   Event triggered   ----
+2023-07-31 15:45:55.7594|2180|INFO|Process end : OK 
+2023-07-31 15:48:38.2786|2180|INFO|----   Event triggered   ----
+2023-07-31 15:48:38.9913|2180|INFO|Process end : OK 
+2023-07-31 16:17:36.0066|2180|INFO|----   Event triggered   ----
+2023-07-31 16:17:36.0572|2180|INFO|Process end : OK 
+2023-07-31 16:19:44.6481|2180|INFO|----   Event triggered   ----
+2023-07-31 16:19:44.6708|2180|INFO|Process end : OK 
+2023-07-31 16:29:36.7988|2180|INFO|----   Event triggered   ----
+2023-07-31 16:29:36.8457|2180|INFO|Process end : OK 
+2023-07-31 16:29:48.9983|2180|INFO|----   Event triggered   ----
+2023-07-31 16:29:49.0295|2180|INFO|Process end : OK 

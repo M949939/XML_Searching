@@ -1,0 +1,74 @@
+2023-05-16 14:48:49.3646|18780|INFO|Initialisation... 
+2023-05-16 14:48:49.3905|18780|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Nok\Archives
+2023-05-16 14:48:49.3905|18780|INFO|Creation of event : OK
+2023-05-16 14:48:58.3216|18780|INFO|----   Event triggered   ----
+2023-05-16 14:50:57.6619|1600|INFO|Initialisation... 
+2023-05-16 14:50:57.6928|1600|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Nok\Archives
+2023-05-16 14:50:57.6928|1600|INFO|Creation of event : OK
+2023-05-16 14:51:06.3307|1600|INFO|----   Event triggered   ----
+2023-05-16 14:53:40.2453|19092|INFO|Initialisation... 
+2023-05-16 14:53:40.2909|19092|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Ok\Archives
+2023-05-16 14:53:40.2924|19092|INFO|Creation of event : OK
+2023-05-16 14:54:37.1230|8964|INFO|Initialisation... 
+2023-05-16 14:54:37.1529|8964|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Termine\Ok\2023_S20
+2023-05-16 14:54:37.1529|8964|INFO|Creation of event : OK
+2023-05-16 14:54:57.1262|8964|INFO|----   Event triggered   ----
+2023-05-16 14:55:49.3987|20336|INFO|Initialisation... 
+2023-05-16 14:55:49.4376|20336|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Nok\Archives
+2023-05-16 14:55:49.4376|20336|INFO|Creation of event : OK
+2023-05-16 14:56:14.2031|4728|INFO|Initialisation... 
+2023-05-16 14:56:14.2280|4728|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Ok\Archives
+2023-05-16 14:56:14.2291|4728|INFO|Creation of event : OK
+2023-05-16 15:00:01.0566|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:06.3491|4728|INFO|Process end : OK 
+2023-05-16 15:00:06.3530|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:10.0014|4728|INFO|Process end : OK 
+2023-05-16 15:00:10.0014|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:10.0443|4728|INFO|Process end : OK 
+2023-05-16 15:00:10.0443|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:10.2025|4728|INFO|Process end : OK 
+2023-05-16 15:00:10.2025|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:10.2592|4728|INFO|Process end : OK 
+2023-05-16 15:00:10.2592|4728|INFO|----   Event triggered   ----
+2023-05-16 15:00:10.4206|4728|INFO|Process end : OK 
+2023-05-16 15:03:06.6831|8828|INFO|Initialisation... 
+2023-05-16 15:03:06.7090|8828|INFO|Folder to watch : \\BREC19904.ad.trw.com\c$\Prodel\Traca\Ok\Archives
+2023-05-16 15:03:06.7090|8828|INFO|Creation of event : OK
+2023-05-16 15:05:00.6774|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.0196|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.0243|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.0633|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.0633|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.1004|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.1004|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.1395|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.1395|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.1779|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.1779|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.2150|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.2150|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.2564|8828|INFO|Process end : OK 
+2023-05-16 15:05:22.2564|8828|INFO|----   Event triggered   ----
+2023-05-16 15:05:22.2953|8828|INFO|Process end : OK 
+2023-05-16 15:10:00.7827|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:00.8270|8828|INFO|Process end : OK 
+2023-05-16 15:10:00.8643|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:00.9122|8828|INFO|Process end : OK 
+2023-05-16 15:10:00.9122|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:00.9618|8828|INFO|Process end : OK 
+2023-05-16 15:10:00.9618|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:01.0048|8828|INFO|Process end : OK 
+2023-05-16 15:10:01.0048|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:01.0484|8828|INFO|Process end : OK 
+2023-05-16 15:10:01.0484|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:01.1042|8828|INFO|Process end : OK 
+2023-05-16 15:10:01.1042|8828|INFO|----   Event triggered   ----
+2023-05-16 15:10:01.1471|8828|INFO|Process end : OK 
+2023-05-16 15:15:00.7115|8828|INFO|----   Event triggered   ----
+2023-05-16 15:15:00.7414|8828|INFO|----   Event triggered   ----
+2023-05-16 15:15:00.7842|8828|INFO|Process end : OK 
+2023-05-16 15:15:00.8062|8828|INFO|----   Event triggered   ----
+2023-05-16 15:15:00.8462|8828|INFO|----   Event triggered   ----
+2023-05-16 15:15:00.8889|8828|INFO|Process end : OK 
+2023-05-16 15:15:00.8889|8828|INFO|----   Event triggered   ----
+2023-05-16 15:15:00.9344|8828|INFO|Process end : OK 
